@@ -24,8 +24,8 @@ main {
 
 #telefone {
     position: absolute;
-    min-height: 627px;
-    min-width: 311px;
+    height: 627px;
+    width: 311px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);

@@ -29,15 +29,15 @@ main {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url("../imagens/frame-iphone2.png") no-repeat;
+    background: url("../imagens/frame-iphone3.png") no-repeat;
 }
 
 #tela {
    position: relative;
-   top: 66.9px; 
-   left: 18.6px;
-   height: 393.4px;
-   width: 220.4px;
+   top: 52px; 
+   left: 15px;
+   height: 302px;
+   width: 170px;
 }
 
 #redes {
