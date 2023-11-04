@@ -24,20 +24,20 @@ main {
 
 #telefone {
     position: absolute;
-    height: 627px;
-    width: 311px;
+    height: 524px;
+    width: 260px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url("../imagens/frame-iphone.png") no-repeat;
+    background: url("../imagens/frame-iphone2.png") no-repeat;
 }
 
 #tela {
    position: relative;
-   top: 80px; 
-   left: 21.8px;
-   height: 471px;
-   width: 267.8px;
+   top: 66.9px; 
+   left: 18.6px;
+   height: 393.4px;
+   width: 220.4px;
 }
 
 #redes {
